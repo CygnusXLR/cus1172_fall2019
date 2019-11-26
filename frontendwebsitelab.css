@@ -1,0 +1,148 @@
+#home {
+	background: url(ComputerScience.jpg) no-repeat 50% 50%;
+	display: table;
+	height: 100% width: 100%;
+	background-size: cover;
+  }
+  
+  .landing-text {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+  }
+  
+  h1 {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 700%;
+	line-height: 1.2;
+  }
+  
+  h3 {
+	font-size: 260% font-weight: 500;
+	line-height: 1.2;
+  }
+  
+  #body {
+	background-color: lightblue;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+  }
+  
+  .btn-default {
+	border: none;
+	outline: 0;
+	display: inline-block;
+	padding: 8px;
+	color: white;
+	background-color: #000;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+  }
+  
+  .btn-default:hover,a:hover {
+	color: whitesmoke;
+	background-color: darkslategrey;
+	opacity: 0.7;
+  }
+  
+  #wrapper {
+	width: 80%;
+	margin: 10%;
+  }
+  
+  body {
+	background-color: darkblue;
+	color: white;
+	font-family: 'Times New Roman', Times, serif;
+  }
+  
+  #wrapper {
+	width: 80%;
+	margin: 10%;
+  }
+  
+  nav {
+	text-transform: uppercase;
+	display: inline-block;
+	width: 100%;
+	text-align: right;
+	background-color: slateblue;
+  }
+  
+  nav ul {
+	list style-type: none;
+  }
+  
+  nav li {
+	display: inline-block;
+  }
+  
+  nav a {
+	text-decoration: none;
+	padding: 5px;
+	font-size: 1.5em;
+	border-bottom: 1px dotted red;
+  }
+  
+  nav a:hover {
+	color: blueviolet border-bottom 3px solid royalblue;
+  }
+		  }
+  
+  nav {
+	text-transform: uppercase;
+	display: inline-block;
+	width: 100%;
+	text-align: right;
+	background-color: slateblue;
+  }
+  
+  nav ul {
+	list style-type: none;
+  }
+  
+  nav li {
+	display: inline-block;
+  }
+  
+  nav a {
+	text-decoration: none;
+	color: red;
+	padding: 5px;
+	font-size: 1.5em;
+	border-bottom: 1px dotted darkblue;
+  }
+  
+  nav a:hover {
+	color: blueviolet border-bottom 3px solid royalblue;
+  }
+  #team i{
+	  font-size:26px;
+	  color:#555;
+  }
+  #team p{
+	  font-weight:500;
+
+  }
+  #team.card {
+	border-radius: 0;
+	box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+	max-width: 300px;
+	transition: all 0.3s ease-in;
+	-webkit-transition: all 0.3s ease-in;
+	margin: auto;
+	text-align: center;
+  }
+  
+  .title {
+	color: grey;
+	font-size: 18px;
+  }
+  
+  a {
+	text-decoration: none;
+	font-size: 22px;
+	color: black;
+  }
